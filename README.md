@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/nalmar069" target="blank"><img src="https://img.shields.io/twitter/follow/nalmar069?logo=twitter&style=for-the-badge" alt="nalmar069" /></a> </p>
 
-- 🔭 I’m currently working on **Full stack development**
-
 - 🌱 I’m currently learning **Full stack development**
 
 - 💬 Ask me about **Game Development**
